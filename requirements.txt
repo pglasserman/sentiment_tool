@@ -1,0 +1,8 @@
+streamlit
+PIL
+pandas
+re
+typing
+textblob
+vaderSentiment
+transformers
